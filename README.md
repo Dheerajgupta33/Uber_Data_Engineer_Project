@@ -4,13 +4,6 @@
 
  End-to-End data engineering project—bringing together batch ingestion, ride-event streaming, Spark transformations, and star-schema modeling in an automated workflow.
 
----
-
-## 🏗️ Project Architecture
-
-![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
-
----
 
 ## 📌 About the Project
 
