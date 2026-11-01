@@ -2,7 +2,7 @@
 
 ### ☁️ End-to-End Data Engineering with Azure & Databricks
 
-My first end-to-end data engineering project—bringing together batch ingestion, ride-event streaming, Spark transformations, and star-schema modeling in an automated workflow.
+ End-to-End data engineering project—bringing together batch ingestion, ride-event streaming, Spark transformations, and star-schema modeling in an automated workflow.
 
 ---
 
