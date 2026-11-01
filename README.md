@@ -8,7 +8,7 @@ My first end-to-end data engineering project—bringing together batch ingestion
 
 ## 🏗️ Project Architecture
 
-![Uber Data Engineering Project Architecture](architecture.jpg)
+![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
 
 ---
 
@@ -86,15 +86,7 @@ Working through these issues helped me understand how configuration, ingestion, 
 - How to move from manually running notebooks to an automated pipeline.
 - Why secure credential handling and careful debugging matter in cloud projects.
 
----
 
-## 🎓 About This Project
-
-This is a student learning and portfolio project, and my first completed end-to-end data engineering project.
-
-It is not affiliated with or endorsed by Uber.
-
-![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
 
 
 
